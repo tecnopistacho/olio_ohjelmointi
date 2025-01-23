@@ -1,7 +1,0 @@
-/Users/pilarmurciapozuelo/olio_ohjelmointi/Practice_3/build/CMakeFiles/Practice_3.dir
-/Users/pilarmurciapozuelo/olio_ohjelmointi/Practice_3/build/CMakeFiles/edit_cache.dir
-/Users/pilarmurciapozuelo/olio_ohjelmointi/Practice_3/build/CMakeFiles/rebuild_cache.dir
-/Users/pilarmurciapozuelo/olio_ohjelmointi/Practice_3/build/CMakeFiles/list_install_components.dir
-/Users/pilarmurciapozuelo/olio_ohjelmointi/Practice_3/build/CMakeFiles/install.dir
-/Users/pilarmurciapozuelo/olio_ohjelmointi/Practice_3/build/CMakeFiles/install/local.dir
-/Users/pilarmurciapozuelo/olio_ohjelmointi/Practice_3/build/CMakeFiles/install/strip.dir
