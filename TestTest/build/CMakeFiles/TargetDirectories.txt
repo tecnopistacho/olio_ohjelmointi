@@ -1,0 +1,7 @@
+/Users/pilarmurciapozuelo/olio_ohjelmointi/TestTest/build/CMakeFiles/TestTest.dir
+/Users/pilarmurciapozuelo/olio_ohjelmointi/TestTest/build/CMakeFiles/edit_cache.dir
+/Users/pilarmurciapozuelo/olio_ohjelmointi/TestTest/build/CMakeFiles/rebuild_cache.dir
+/Users/pilarmurciapozuelo/olio_ohjelmointi/TestTest/build/CMakeFiles/list_install_components.dir
+/Users/pilarmurciapozuelo/olio_ohjelmointi/TestTest/build/CMakeFiles/install.dir
+/Users/pilarmurciapozuelo/olio_ohjelmointi/TestTest/build/CMakeFiles/install/local.dir
+/Users/pilarmurciapozuelo/olio_ohjelmointi/TestTest/build/CMakeFiles/install/strip.dir
