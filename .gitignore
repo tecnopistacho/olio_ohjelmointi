@@ -1,0 +1,31 @@
+# macOS system files
+.DS_Store
+.Trash/
+
+# Build files
+/build/
+/CMakeFiles/
+*.cmake
+*.o
+*.obj
+*.user
+*.log
+
+# Qt Creator files
+*.pro.user
+*.qtcsettings
+
+# Other system files
+.CFUserTextEncoding
+
+.DS_Store
+.Trash/
+Downloads/
+Desktop/*.png
+Desktop/*.pptx
+Library/
+Movies/
+Music/
+Pictures/
+Public/
+*.log
