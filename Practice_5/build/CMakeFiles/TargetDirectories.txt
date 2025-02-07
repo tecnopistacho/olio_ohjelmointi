@@ -1,0 +1,7 @@
+/Users/pilarmurciapozuelo/olio_ohjelmointi/Practice_5/build/CMakeFiles/Practice_5.dir
+/Users/pilarmurciapozuelo/olio_ohjelmointi/Practice_5/build/CMakeFiles/edit_cache.dir
+/Users/pilarmurciapozuelo/olio_ohjelmointi/Practice_5/build/CMakeFiles/rebuild_cache.dir
+/Users/pilarmurciapozuelo/olio_ohjelmointi/Practice_5/build/CMakeFiles/list_install_components.dir
+/Users/pilarmurciapozuelo/olio_ohjelmointi/Practice_5/build/CMakeFiles/install.dir
+/Users/pilarmurciapozuelo/olio_ohjelmointi/Practice_5/build/CMakeFiles/install/local.dir
+/Users/pilarmurciapozuelo/olio_ohjelmointi/Practice_5/build/CMakeFiles/install/strip.dir
