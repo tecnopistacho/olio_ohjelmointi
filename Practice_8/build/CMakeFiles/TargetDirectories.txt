@@ -1,0 +1,9 @@
+/Users/pilarmurciapozuelo/olio_ohjelmointi/Practice_8/build/CMakeFiles/Practice_8.dir
+/Users/pilarmurciapozuelo/olio_ohjelmointi/Practice_8/build/CMakeFiles/edit_cache.dir
+/Users/pilarmurciapozuelo/olio_ohjelmointi/Practice_8/build/CMakeFiles/rebuild_cache.dir
+/Users/pilarmurciapozuelo/olio_ohjelmointi/Practice_8/build/CMakeFiles/list_install_components.dir
+/Users/pilarmurciapozuelo/olio_ohjelmointi/Practice_8/build/CMakeFiles/install.dir
+/Users/pilarmurciapozuelo/olio_ohjelmointi/Practice_8/build/CMakeFiles/install/local.dir
+/Users/pilarmurciapozuelo/olio_ohjelmointi/Practice_8/build/CMakeFiles/install/strip.dir
+/Users/pilarmurciapozuelo/olio_ohjelmointi/Practice_8/build/CMakeFiles/Practice_8_autogen_timestamp_deps.dir
+/Users/pilarmurciapozuelo/olio_ohjelmointi/Practice_8/build/CMakeFiles/Practice_8_autogen.dir
